@@ -40,7 +40,11 @@ Ekspor database yang sudah ane bikin dengan nama `to_do_list`.
 
 ### Clone repository
 
-clone repo ini dengan perintah `https://github.com/ferryops/api-to-do-list.git`
+clone repo ini dengan perintah:
+
+```bash
+https://github.com/ferryops/api-to-do-list.git
+```
 
 ### Install dependensi
 
@@ -53,3 +57,7 @@ npm install
 ```bash
 node --watch index.js
 ```
+
+### Dokumentasi API
+
+[Dokumen API](https://github.com/ferryops/api-to-do-list/blob/main/Dokumen%20API.pdf)

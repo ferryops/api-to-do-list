@@ -1,4 +1,4 @@
-[image](https://github.com/ferryops/api-to-do-list/blob/main/FsPOsLFagAAXZum.jpeg)
+![image](https://github.com/ferryops/api-to-do-list/blob/main/FsPOsLFagAAXZum.jpeg)
 
 # To-Do List API
 

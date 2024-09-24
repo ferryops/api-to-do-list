@@ -1,3 +1,5 @@
+[image](https://github.com/ferryops/api-to-do-list/blob/main/FsPOsLFagAAXZum.jpeg)
+
 # To-Do List API
 
 API To-Do List ini memungkinkan pengguna untuk mengelola checklist dan item-item di dalamnya. Pengguna dapat melakukan registrasi, login, membuat checklist, menambahkan item ke dalam checklist, mengubah status item, dan menghapus checklist atau item.
